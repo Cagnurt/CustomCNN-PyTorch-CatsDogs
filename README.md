@@ -1,6 +1,6 @@
 # CustomCNN-PyTorch-CatsDog
 
-This repository contains an implementation of a Convolutional Neural Network (CNN) from scratch using only the NumPy library ('01_CustomCNN.ipynb'). The initial code provides a basic CNN architecture without relying on specialized deep learning frameworks such as TensorFlow or PyTorch. The CNN is implemented using NumPy arrays and includes essential layers such as convolutional layers, pooling layers, and fully connected layers.
+This repository contains an implementation of a Convolutional Neural Network (CNN) from scratch using only the NumPy library (`01_CustomCNN.ipynb`). The initial code provides a basic CNN architecture without relying on specialized deep learning frameworks such as TensorFlow or PyTorch. The CNN is implemented using NumPy arrays and includes essential layers such as convolutional layers, pooling layers, and fully connected layers.
 
 Additionally, the repository includes a PyTorch version of the CNN model (_02_PyTorchCNN.ipynb_). This PyTorch implementation leverages the power of the PyTorch framework to train the model on the popular "Cats and Dogs" dataset. The model is designed to classify images of cats and dogs accurately.
 
